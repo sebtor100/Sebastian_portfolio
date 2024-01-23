@@ -21,6 +21,7 @@ The project focuses on analyzing the data from FoodHub, a food aggregator compan
 - Encourage customers to provide feedback and ratings for better service quality.
 
 #  [Project 2 : Machine-Learning-Potential-Customers-Prediction](https://github.com/sebtor100/Machine-Learning-Potential-Customers-Prediction)
+![Illustration-of-random-forest-trees](https://github.com/sebtor100/SEB_portfolio/assets/122765165/73c9b1af-6d9a-4218-abbc-c02d3eccf72e)
 
 ## Context
 The EdTech industry has experienced significant growth in the past decade, with the Online Education market projected to be worth $286.62 billion by 2023, exhibiting a compound annual growth rate (CAGR) of 10.26% from 2018 to 2023. The surge in online education, driven by features such as ease of information sharing, personalized learning experiences, and transparent assessment, has made it a preferred choice over traditional education. The Covid-19 pandemic has further accelerated the growth of the online education sector, attracting new customers and giving rise to numerous companies in the industry.
