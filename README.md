@@ -3,7 +3,6 @@ Data Analytics Portfolio
 
 # [Project 1: FoodHub Data Analysis](https://github.com/sebtor100/Exploratory-Data-Analysis-) 
 ![Exploratory-Data-Analysis-EDA-steps-source-7](https://github.com/sebtor100/SEB_portfolio/assets/122765165/090d49c7-1b44-4d27-87ac-2fbebee2e30b)
-EDA-steps-source-7_fig4_352546274))
 
 ## Overview
 
