@@ -66,6 +66,7 @@ that engage visitors and extend their website session lengths:
 
 #  [Project 3 :Applied-Data-Science-Loan-Prediction-](https://github.com/sebtor100/Applied-Data-Science-Loan-Prediction-)
 Loan Prediction Techniques
+![hyperparam_intro_rf_only2](https://github.com/sebtor100/SEB_portfolio/assets/122765165/b31a6af2-6307-41c7-baa6-f95f85cda708)
 
 # Loan Default Prediction
 ## Problem Definition
