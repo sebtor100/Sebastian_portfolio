@@ -1,7 +1,7 @@
 # Sebastian's portfolio
 Data Analytics Portfolio
 
-# Project 1: FoodHub Data Analysis (https://github.com/sebtor100/Exploratory-Data-Analysis-)
+# [Project 1: FoodHub Data Analysis](https://github.com/sebtor100/Exploratory-Data-Analysis-) 
 
 ## Overview
 
@@ -19,7 +19,7 @@ The project focuses on analyzing the data from FoodHub, a food aggregator compan
 - Introduce special offers for high-cost orders to incentivize customers.
 - Encourage customers to provide feedback and ratings for better service quality.
 
-# Project 2 : Machine-Learning-Potential-Customers-Prediction (https://github.com/sebtor100/Machine-Learning-Potential-Customers-Prediction)
+#  [Project 2 : Machine-Learning-Potential-Customers-Prediction](https://github.com/sebtor100/Machine-Learning-Potential-Customers-Prediction)
 
 ## Context
 The EdTech industry has experienced significant growth in the past decade, with the Online Education market projected to be worth $286.62 billion by 2023, exhibiting a compound annual growth rate (CAGR) of 10.26% from 2018 to 2023. The surge in online education, driven by features such as ease of information sharing, personalized learning experiences, and transparent assessment, has made it a preferred choice over traditional education. The Covid-19 pandemic has further accelerated the growth of the online education sector, attracting new customers and giving rise to numerous companies in the industry.
@@ -62,7 +62,7 @@ that engage visitors and extend their website session lengths:
 - Set up A/B testing frameworks to test changes to web pages, outreach campaigns, pricing models etc. and their impact on conversion rates.
 
 
-# Project 3 :Applied-Data-Science-Loan-Prediction-(https://github.com/sebtor100/Applied-Data-Science-Loan-Prediction-)
+#  [Project 3 :Applied-Data-Science-Loan-Prediction-](https://github.com/sebtor100/Applied-Data-Science-Loan-Prediction-)
 Loan Prediction Techniques
 
 # Loan Default Prediction
@@ -86,7 +86,7 @@ The key drivers of default risk should inform lending policy and credit worthine
 Additional data like income stability, payment behavior with other lenders, personal obligations etc. should be collected in loan applications wherever possible. This can feed into incremental model improvements over time.
 Appropriate thresholds need to be set for default probability beyond which loans get rejected. These cut-offs require business input based on risk appetite.
 
-# Project 4 :Shinkansen-Bullet-Train-in-Japan. (https://github.com/sebtor100/Shinkansen-Bullet-Train-in-Japan)
+#  [Project 4 :Shinkansen-Bullet-Train-in-Japan](https://github.com/sebtor100/Shinkansen-Bullet-Train-in-Japan)
 Customer Satisfaction Prediction Techniques 
 
 ## About
