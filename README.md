@@ -91,6 +91,7 @@ Appropriate thresholds need to be set for default probability beyond which loans
 
 #  [Project 4 :Shinkansen-Bullet-Train-in-Japan](https://github.com/sebtor100/Shinkansen-Bullet-Train-in-Japan)
 Customer Satisfaction Prediction Techniques 
+![Japanese-shinkansen-train-e1572594353517-825x550](https://github.com/sebtor100/SEB_portfolio/assets/122765165/f56ab095-b7a6-4ed2-8115-02d0710d911d)
 
 ## About
 
