@@ -85,3 +85,51 @@ A two-step loan approval process is recommended. First, applicants should be cla
 The key drivers of default risk should inform lending policy and credit worthiness evaluation during the manual underwriting process as well. Applicants with long credit history and low debt ratios should be preferred.
 Additional data like income stability, payment behavior with other lenders, personal obligations etc. should be collected in loan applications wherever possible. This can feed into incremental model improvements over time.
 Appropriate thresholds need to be set for default probability beyond which loans get rejected. These cut-offs require business input based on risk appetite.
+
+# Project 4 :Shinkansen-Bullet-Train-in-Japan
+Customer Satisfaction Prediction Techniques 
+
+## About
+
+This problem statement is based on the Shinkansen Bullet Train in Japan, and passengers’ experience with that mode of travel. This machine learning exercise aims to determine the relative importance of each parameter about their contribution to the passengers’ overall travel experience. The dataset contains a random sample of individuals who traveled on this train. The on-time performance of the trains along with passenger information is published in a file named ‘Traveldata_train.csv’.  These passengers were later asked to provide their feedback on various parameters related to the travel along with their overall experience. These collected details are made available in the survey report labeled ‘Surveydata_train.csv’.
+
+In the survey, each passenger was explicitly asked whether they were satisfied with their overall travel experience or not, and that is captured in the data of the survey report under the variable labeled ‘Overall_Experience’. 
+
+The objective of this problem is to understand which parameters play an important role in swaying passenger feedback towards a positive scale. You are provided test data containing the travel data and the survey data of passengers. Both the test data and the train data are collected at the same time and belong to the same population.
+
+
+## Goal:
+The goal of the problem is to predict whether a passenger was satisfied or not considering his/her overall experience of traveling on the Shinkansen Bullet Train.
+
+## Dataset: 
+
+The problem consists of 2 separate datasets: Travel data & Survey data. Travel data has information related to passengers and attributes related to the Shinkansen train, in which they traveled. The survey data is aggregated data of surveys indicating the post-service experience. You are expected to treat both these datasets as raw data and perform any necessary data cleaning/validation steps as required.
+
+The data has been split into two groups and provided in the Dataset folder. The folder contains both train and test data separately.
+
+•	Train_Data
+•	Test_Data
+
+Target Variable: Overall_Experience (1 represents ‘satisfied’, and 0 represents ‘not satisfied’)
+
+The training set can be used to build your machine-learning model. The training set has labels for the target column - Overall_Experience.
+
+The testing set should be used to see how well your model performs on unseen data. For the test set, it is expected to predict the ‘Overall_Experience’ level for each participant.
+
+## Data Dictionary:
+
+All the data is self-explanatory. The survey levels are explained in the Data Dictionary file.
+
+Submission File Format: You will need to submit a CSV file with exactly 35,602 entries plus a header row. The file should have exactly two columns
+
+•	ID
+•	Overall_Experience (contains 0 & 1 values, 1 represents ‘Satisfied’, and 0 represents ‘Not Satisfied’)
+
+## Evaluation Criteria:
+
+Accuracy Score: The evaluation metric is simply the percentage of predictions made by the model that turned out to be correct. This is also called the accuracy of the model. It will be calculated as the total number of correct predictions (True Positives + True Negatives) divided by the total number of observations in the dataset.
+ 
+In other words, the best possible accuracy is 100% (or 1), and the worst possible accuracy 0%. 
+
+## Validation Accuracy Final Model: 0.9528501801229073
+
