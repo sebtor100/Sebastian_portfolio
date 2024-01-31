@@ -173,6 +173,8 @@ The Amazon dataset contains the following attributes:
 - **Rating:** The rating of the corresponding product by the corresponding user
 - **timestamp:** Time of the rating. We **will not use this column** to solve the current problem
 
+![cs](https://github.com/sebtor100/Sebastian_portfolio/assets/122765165/9050234c-71e1-402e-a465-19a5b184aa1c)
+
 ### **Conclusion and Recommendations**
 
 -----------------------------
