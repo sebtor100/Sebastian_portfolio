@@ -137,7 +137,7 @@ In other words, the best possible accuracy is 100% (or 1), and the worst possibl
 
 ## Validation Accuracy Final Model: 0.9528501801229073
 
-#  [Project 5 : Amazon Product Recommendation System](https://github.com/sebtor100/Amazon-Product-Recommendation-System) 
+#  [Project 5: Amazon Product Recommendation System](https://github.com/sebtor100/)Amazon-Product-Recommendation-System)
 Recommendation System Techniques 
 ![0_lRi888vssyKrR2Ks](https://github.com/sebtor100/Sebastian_portfolio/assets/122765165/288e192f-c68e-4cc5-9838-ac3b243a5e29)
 
