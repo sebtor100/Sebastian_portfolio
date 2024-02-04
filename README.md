@@ -89,7 +89,7 @@ The key drivers of default risk should inform lending policy and credit worthine
 Additional data like income stability, payment behavior with other lenders, personal obligations etc. should be collected in loan applications wherever possible. This can feed into incremental model improvements over time.
 Appropriate thresholds need to be set for default probability beyond which loans get rejected. These cut-offs require business input based on risk appetite.
 
-# [Project 4: Boston House Price Prediction]([https://github.com/sebtor100/Exploratory-Data-Analysis-](https://github.com/sebtor100/Boston-House-Price-Prediction) 
+# [Project 4: Boston House Price Prediction]([https://github.com/sebtor100/Exploratory-Data-Analysis-](https://github.com/sebtor100/Boston-House-Price-Prediction)) 
 
 #  [Project 5 :Shinkansen-Bullet-Train-in-Japan](https://github.com/sebtor100/Shinkansen-Bullet-Train-in-Japan)
 Customer Satisfaction Prediction Techniques 
