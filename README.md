@@ -89,7 +89,61 @@ The key drivers of default risk should inform lending policy and credit worthine
 Additional data like income stability, payment behavior with other lenders, personal obligations etc. should be collected in loan applications wherever possible. This can feed into incremental model improvements over time.
 Appropriate thresholds need to be set for default probability beyond which loans get rejected. These cut-offs require business input based on risk appetite.
 
-# [Project 4: Boston House Price Prediction]([https://github.com/sebtor100/Exploratory-Data-Analysis-](https://github.com/sebtor100/Boston-House-Price-Prediction)) 
+# [Project 4: Boston House Price Prediction](https://github.com/sebtor100/Boston-House-Price-Prediction)) 
+Machine Learning Prediction Model
+![ml-house-prices-example](https://github.com/sebtor100/Sebastian_portfolio/assets/122765165/22a15df7-a71f-494c-83a3-a0f8804b4bea)
+
+Welcome to the project on regression. We will use the **Boston house price dataset** for this project.
+
+-------------------------------
+## **Objective**
+-------------------------------
+
+The problem at hand is to **predict the housing prices of a town or a suburb based on the features of the locality provided to us**. In the process, we need to **identify the most important features affecting the price of the house**. We need to employ techniques of data preprocessing and build a linear regression model that predicts the prices for the unseen data.
+
+----------------------------
+## **Dataset**
+---------------------------
+
+Each record in the database describes a suburb or town in a Boston. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. Detailed attribute information can be found below:
+
+Attribute Information:
+
+- **CRIM:** Per capita crime rate by town
+- **ZN:** Proportion of residential land zoned for lots over 25,000 sq.ft.
+- **INDUS:** Proportion of non-retail business acres per town
+- **CHAS:** Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
+- **NOX:** Nitric Oxide concentration (parts per 10 million)
+- **RM:** The average number of rooms per dwelling
+- **AGE:** Proportion of owner-occupied units built before 1940
+- **DIS:** Weighted distances to five Boston employment centers
+- **RAD:** Index of accessibility to radial highways
+- **TAX:** Full-value property-tax rate per 10,000 dollars
+- **PTRATIO:** Pupil-teacher ratio by town
+- **LSTAT:** % lower status of the population
+- **MEDV:** Median value of owner-occupied homes in 1000 dollars.
+
+  ### Conclusions and Business Recommendations
+
+**Conclusions:**
+
+ The regression analysis on the Boston housing dataset has provided valuable insights into the factors influencing housing prices. The linear regression model, after careful evaluation and refinement, demonstrates robust performance in predicting housing prices based on selected features. Key features such as crime rate (CRIM), proximity to the Charles River (CHAS), nitric oxide concentration (NOX), average number of rooms (RM), and socioeconomic status (% lower status of the population - LSTAT) have significant impacts on housing prices. The model's good performance on both training and testing sets suggests its generalizability and reliability in making accurate predictions.
+ 
+  **Business Recommendations:**
+
+**1. Crime Mitigation Strategies:** Given the negative impact of crime rate on housing prices, local authorities and communities should focus on implementing effective crime mitigation strategies to enhance neighborhood safety, potentially leading to an increase in property values.
+
+**2. Promotion of Riverfront Properties:** Properties near the Charles River (CHAS) show a positive correlation with housing prices. Real estate developers and marketers can leverage this information to promote riverfront properties as premium offerings, potentially attracting higher market values.
+
+**3. Environmental Quality and Planning:** Factors like nitric oxide concentration (NOX) influence housing prices. Urban planning initiatives that focus on improving air quality and environmental conditions can positively impact property values.
+
+**4. Investment in Education and Infrastructure:** The model highlights the importance of factors such as pupil-teacher ratio (PTRATIO) and accessibility to highways (RAD). Communities and policymakers should prioritize investments in education and infrastructure to enhance overall living conditions and property values.
+
+**5. Affordability Programs:** Addressing the impact of socioeconomic status (LSTAT) on housing prices, policymakers may consider implementing affordable housing programs to support lower-income populations and promote community development.
+
+In conclusion, a comprehensive understanding of the factors influencing housing prices allows for informed decision-making in urban planning, real estate development, and community improvement initiatives. The recommendations provided align with creating thriving, safe, and desirable neighborhoods that contribute to the overall well-being of residents and the economic vitality of the region.
+
+
 
 #  [Project 5 :Shinkansen-Bullet-Train-in-Japan](https://github.com/sebtor100/Shinkansen-Bullet-Train-in-Japan)
 Customer Satisfaction Prediction Techniques 
