@@ -89,7 +89,9 @@ The key drivers of default risk should inform lending policy and credit worthine
 Additional data like income stability, payment behavior with other lenders, personal obligations etc. should be collected in loan applications wherever possible. This can feed into incremental model improvements over time.
 Appropriate thresholds need to be set for default probability beyond which loans get rejected. These cut-offs require business input based on risk appetite.
 
-#  [Project 4 :Shinkansen-Bullet-Train-in-Japan](https://github.com/sebtor100/Shinkansen-Bullet-Train-in-Japan)
+# [Project 4: Boston House Price Prediction]([https://github.com/sebtor100/Exploratory-Data-Analysis-](https://github.com/sebtor100/Boston-House-Price-Prediction) 
+
+#  [Project 5 :Shinkansen-Bullet-Train-in-Japan](https://github.com/sebtor100/Shinkansen-Bullet-Train-in-Japan)
 Customer Satisfaction Prediction Techniques 
 ![Japanese-shinkansen-train-e1572594353517-825x550](https://github.com/sebtor100/SEB_portfolio/assets/122765165/f56ab095-b7a6-4ed2-8115-02d0710d911d)
 
@@ -137,7 +139,7 @@ In other words, the best possible accuracy is 100% (or 1), and the worst possibl
 
 ## Validation Accuracy Final Model: 0.9528501801229073
 
-#  [Project 5: Amazon Product Recommendation System](https://github.com/sebtor100/Amazon-Product-Recommendation-System)
+#  [Project 6: Amazon Product Recommendation System](https://github.com/sebtor100/Amazon-Product-Recommendation-System)
 Recommendation System Techniques 
 ![0_lRi888vssyKrR2Ks](https://github.com/sebtor100/Sebastian_portfolio/assets/122765165/288e192f-c68e-4cc5-9838-ac3b243a5e29)
 
